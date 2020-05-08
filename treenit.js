@@ -33,7 +33,7 @@ const treenit = [
     kuvaus: "Treenissä on kolme selälle ja vatsalle kohdistuvaa liikettä, joita toistetaan viisi kierrosta.",
     lammittely: "Lämmittele seuraavasti: ....",
     treeni: [
-      { toistot: 5,
+      { toistot: 1,
         liikkeet: [
             { liike: "kylkilankku, vasen puoli",
               aika: 20},
